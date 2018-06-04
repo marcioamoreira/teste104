@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1528152858 source:f:\engenharia de software ii\rafael\anderson.c
+	<stdio.h>
+	<stdlib.h>
+
+1528152794 source:f:\engenharia de software ii\rafael\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1528152898 source:f:\engenharia de software ii\rafael\santos.c
+	<stdio.h>
+	<stdlib.h>
+
